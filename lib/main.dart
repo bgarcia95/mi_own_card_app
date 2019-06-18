@@ -51,7 +51,7 @@ class MyApp extends StatelessWidget {
                       color: Colors.teal[900],
                     ),
                     title: Text(
-                      '+503 7452-6878',
+                      '+ 503 7452-6878',
                       style: TextStyle(
                         fontFamily: 'Source Sans Pro',
                       ),
